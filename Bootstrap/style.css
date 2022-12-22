@@ -29,3 +29,19 @@ body {
     color: #ffa500;
     
   }
+  .bg-2 { 
+    background-color: #000000; /* Dark Blue */
+    color: #ffffff;
+  }
+  .bg-3 { 
+    background-color: #ffa500; /* White */
+    color: #000000;
+  }
+  .bg-4 { 
+    background-color: #000000; /* Black Gray */
+    color: #fff;
+  }
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
